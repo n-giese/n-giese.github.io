@@ -1,9 +1,5 @@
 <html>
 
-	<head>
-		<title>GieseWeb</title>
-	</head>
-
 	<body>
 		<h1>Welcome to the GieseWeb</h1>
 		
@@ -18,7 +14,8 @@
 		with music I am currently interested in. <br>5. A section where people can 
 		find my contact information.</p>
 		
-		<a href="https://www.trschools.k12.wi.us/faculty/nathangiese/?from_faculty_listing=1&l=&u=">
+		<a href="https://www.trschools.k12.wi.us/
+			 faculty/nathangiese/from_faculty_listing=1&l=&u=">
 		For now, here is a link to my school website.</a>
 	</body>
 
